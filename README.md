@@ -34,3 +34,7 @@ Before running the application it is necessary to install the following dependen
 ```pip install SQLAlchemy```
 ---
 ## Usage
+
+To use the application you will need to clone the repo into your machine, navigate on terminal into it and open your [Jupyter Lab](https://github.com/jupyter/notebook) to run the file **etf_analyzer.ipynb**. 
+
+Bellow you can find a brief summary of the data collected through the analysis.
