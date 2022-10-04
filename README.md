@@ -38,3 +38,17 @@ Before running the application it is necessary to install the following dependen
 To use the application you will need to clone the repo into your machine, navigate on terminal into it and open your [Jupyter Lab](https://github.com/jupyter/notebook) to run the file **etf_analyzer.ipynb**. 
 
 Bellow you can find a brief summary of the data collected through the analysis.
+![PYPL Daily Return](Images/PYPL_daily_returns.png)  |  ![PYPL Cumulative Return](Images/PYPL_cumulative_returns.png)
+
+## Contributors
+
+This was a project developed as a group during a Fintech Bootcamp hosted by UC Berkley Extension. 
+
+---
+
+## License
+MIT
+
+
+
+HAPPY CODING :) 
